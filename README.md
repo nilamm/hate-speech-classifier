@@ -17,7 +17,7 @@ This project requires **Python 3** and the following Python libraries installed:
 
 ### Dataset
 
-The datasets is a collection of tweets labeled as offensive language and hate speech by CrowdFlower users.
+The dataset is a collection of tweets labeled as offensive language and hate speech by CrowdFlower users.
 
 https://github.com/t-davidson/hate-speech-and-offensive-language
 
