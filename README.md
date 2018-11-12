@@ -6,7 +6,7 @@ Why make this repo? -->
 
 ### Install
 
-This project requires **Python** and the following Python libraries installed:
+This project requires **Python 3** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas (0.23.4)](http://pandas.pydata.org/)
